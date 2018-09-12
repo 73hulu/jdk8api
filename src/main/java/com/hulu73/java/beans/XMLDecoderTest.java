@@ -6,6 +6,7 @@ import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 
 /**
+ * 将xml转化为对象
  * @Auther: liuzhg
  * @Date: 2018/9/11 0011
  * @Description:
