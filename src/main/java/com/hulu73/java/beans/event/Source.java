@@ -5,7 +5,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 /**
- * 事件源
+ * 事件源，即触发事件的对象；
  * @Auther: liuzhg
  * @Date: 2018/9/11 0011
  * @Description:
